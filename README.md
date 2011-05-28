@@ -6,7 +6,7 @@ a unite.vim plugin for Lithium(PHP).
 
 <https://github.com/basyura/unite-rails>  
 <https://github.com/oppara/vim-unite-cake>  
-<https://github.com/heavenshell/unite-li3>  
+<https://github.com/heavenshell/unite-zf>  
 <https://github.com/heavenshell/unite-sf2>  
 
 ## How to use
