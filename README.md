@@ -4,10 +4,10 @@ a unite.vim plugin for Lithium(PHP).
 
 ## Inspired by
 
-<https://github.com/basyura/unite-rails>
-<https://github.com/oppara/vim-unite-cake>
-<https://github.com/heavenshell/unite-li3>
-<https://github.com/heavenshell/unite-sf2>
+<https://github.com/basyura/unite-rails> 
+<https://github.com/oppara/vim-unite-cake> 
+<https://github.com/heavenshell/unite-li3> 
+<https://github.com/heavenshell/unite-sf2> 
 
 ## How to use
 
